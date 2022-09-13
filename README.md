@@ -1,13 +1,9 @@
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div>
   <div>
-    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api?username=rdcodigo&theme=algolia&count_private=true&show_icons=true)" alt="">
-    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&theme=algolia&layout=compact" alt="">
+    <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=rdcodigo&theme=algolia&count_private=true&show_icons=true)" alt="">
   </div>
-  <br>
-  <div>    
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <div>
+    <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&theme=algolia&layout=compact" alt="">
   </div>
   <div>
     <a target="_blank" href="https://www.linkedin.com/in/diego-rodrigues-531170243/">
