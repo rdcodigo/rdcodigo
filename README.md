@@ -1,12 +1,8 @@
 <div align="center">
- <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdcodigo&theme=gruvbox"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdcodigo&theme=gruvbox"/>
 </div>
 <div align="center"> 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdcodigo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false&hide_border=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&layout=compact&langs_count=7&theme=gruvbox&hide_border=true"/>
-</div>
-<div align="center"> 
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdcodigo&theme=gruvbox&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&layout=7&theme=gruvbox&hide_border=true"/>
 </div>
 
 ##
