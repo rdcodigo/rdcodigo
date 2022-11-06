@@ -1,8 +1,13 @@
+<h1 align="center">Full Stack Web Developer</h1>
+
+##
+
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdcodigo&theme=highcontrast"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdcodigo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdcodigo&theme=highcontrast&hide_border=true"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdcodigo&theme=gruvbox"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdcodigo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&layout=compact&langs_count=7&theme=gruvbox&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdcodigo&theme=gruvbox&hide_border=true"/>
 
  ##
+ 
 </div>
   
 <div align="center">
@@ -18,6 +23,6 @@
  
 <div align="center">
   <a href="https://www.linkedin.com/in/rdcodigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://page-three-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-success?style=for-the-badge&logo=About.me&logoColor=white"></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdcodigo&color=important" alt="Profile views"/></p>
+  <a href="https://page-three-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-important?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdcodigo&color=critical" alt="Profile views"/></p>
 </div>
